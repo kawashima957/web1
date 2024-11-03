@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-amplify/adapter-nextjs": "^1.2.26",
+    "aws-amplify": "^6.8.0"
+  }
+}
